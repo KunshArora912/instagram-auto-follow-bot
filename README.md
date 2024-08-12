@@ -63,4 +63,4 @@ This Python script automates the process of logging into Instagram and following
 To run the script, execute the following command in your terminal or command prompt:
 
 ```bash
-python instagram_follow_bot.py
+python instagram_follow_automation.py
